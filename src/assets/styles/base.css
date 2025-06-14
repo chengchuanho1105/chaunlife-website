@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+
+  /*
+  user-select: none;
+  -webkit-user-select: none;
+  */
+}
