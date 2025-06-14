@@ -1,0 +1,1 @@
+import{d as e,c as n,a as t,o}from"./index-B-eGV4HZ.js";const s={class:""},d=e({name:"xiangchuanProductPage",__name:"index",setup(c){return definePageMeta({layout:"xiangchuanLayout"}),(r,a)=>(o(),n("div",s,a[0]||(a[0]=[t("h1",{class:"h5"},"xiangchuan Product Page",-1)])))}});export{d as default};

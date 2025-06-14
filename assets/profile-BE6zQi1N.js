@@ -1,0 +1,1 @@
+import{d as a,c as s,a as t,o as n}from"./index-B-eGV4HZ.js";const o={class:""},i=a({name:"xiangchuanUserPage",__name:"profile",setup(r){return definePageMeta({layout:"userLayout",middleware:["auth","user"]}),(c,e)=>(n(),s("div",o,e[0]||(e[0]=[t("h1",{class:"h5"},"xiangchuan User Page",-1)])))}});export{i as default};

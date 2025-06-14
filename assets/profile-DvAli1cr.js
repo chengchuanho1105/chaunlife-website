@@ -1,0 +1,1 @@
+import{d as a,c as s,a as o,o as r}from"./index-B-eGV4HZ.js";const t={class:""},d=a({name:"crazyclownUserPage",__name:"profile",setup(n){return definePageMeta({layout:"userLayout",middleware:["auth","user"]}),(c,e)=>(r(),s("div",t,e[0]||(e[0]=[o("h1",{class:"h5"},"crazyclown User Page",-1)])))}});export{d as default};
